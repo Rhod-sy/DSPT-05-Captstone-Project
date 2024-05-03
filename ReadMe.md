@@ -6,6 +6,7 @@
 # A Recipe Recommender System
 
 **Authors:** 
+
 [Ann Karuga](https://github.com/Annkaruga)
 
 [Rodgers Bunde](https://github.com/rodgersbunde)
@@ -32,11 +33,7 @@ Datasets Used:
 1. Recipe Reviews and User Feedback Dataset: a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. It includes essential information such as the recipe name, its ranking on the top 100 recipes list, a unique recipe code, and user details like user ID, user name, and an internal user reputation score. Each review comment is uniquely identified with a comment ID and comes with additional attributes, including the creation timestamp, reply count, and the number of up-votes and down-votes received. Users' sentiment towards recipes is quantified on a 1 to 5 star rating scale, with a score of 0 denoting an absence of rating.
 
 2. Recipe Ingredients and Cooking Instructions Dataset: This dataset provides ingredients and cooking instructions for the recipes contained in the 'Recipe Reviews and User Feedback Dataset'. These two features were generated using GPT AI.
-
-3. bom.movie_gross: This dataset includes information on the domestic and foreign box office gross revenue for movies
-
-4. tn.movie_budgets: This dataset provides data on the production budgets and worldwide gross revenue of movies for the 
-   analysis of the relationship between budgets and revenue ***
+***
 
 
 ## Preprocessing & EDA
