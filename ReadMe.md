@@ -147,7 +147,7 @@ Simply run the provided Python script to start the Streamlit server and access t
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Capstone-Project/capstone_project%20(2).ipynb) or review this [Project Presentation](./data%20dining%20delight%20-%20ppt%20presentation.pdf)
+See the full analysis in the [Jupyter Notebook](./projectfolder/capstone_project_final.ipynb) or review this [Project Presentation](./data%20dining%20delight%20-%20ppt%20presentation.pdf)
 
 
 ## Repository Structure
@@ -155,7 +155,7 @@ See the full analysis in the [Jupyter Notebook](./Capstone-Project/capstone_proj
 ```
 ├── Charts 
 ├── Data
-├── Capstone-Project
+├── projectfolder
 ├── data dining delight - ppt presentation.pdf
 └── ReadMe.md
 ```
