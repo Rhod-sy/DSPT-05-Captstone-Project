@@ -119,9 +119,12 @@ Deployment:
 **Streamlit:** Streamlit is used as the deployment framework, providing a straightforward way to turn Python scripts into shareable web apps.
 **Pickle:** Pickle is utilized to load pre-trained machine learning models and data for recipe recommendations.
 
-Home: Welcome page providing an overview of the app.
+Home: Welcome page providing an overview of the app
+
 About: Information about the app and how it works.
+
 Results: Displays recipe search results, including ingredient lists and ratings based on user input.
+
 Simply run the provided Python script to start the Streamlit server and access the Recipe Search App in your web browser.
 
 
@@ -130,7 +133,6 @@ Simply run the provided Python script to start the Streamlit server and access t
 1. Data Expansion: Incorporate broader datasets to deepen recipe analysis and improve recommendation accuracy.
 2. User Interface Improvement: For easier navigation and enhanced interaction with recipe recommendations.
 3. Ongoing Evaluation: Regularly update and refine the system 
-
 
 
 ## Recommendations
@@ -145,7 +147,7 @@ Simply run the provided Python script to start the Streamlit server and access t
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./capstone_project.ipynb) or review this [Project Presentation](./capstone_project-presentation.pdf)
+See the full analysis in the [Jupyter Notebook](./Capstone-Project/capstone_project (2).ipynb) or review this [Project Presentation](./data dining delight - ppt presentation.pdf)
 
 
 ## Repository Structure
