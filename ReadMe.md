@@ -123,7 +123,7 @@ Home: Welcome page providing an overview of the app
 
 About: Information about the app and how it works.
 
-Results: Displays recipe search results, including ingredient lists and ratings based on user input.
+Results: Displays recipe search results, including rating, ingredients list and cooking instructions based on user input.
 
 Simply run the provided Python script to start the Streamlit server and access the Recipe Search App in your web browser.
 
